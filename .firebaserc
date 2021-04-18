@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-tasks-7ed46": {
+      "hosting": {
+        "angular-firebase-tasks": [
+          "angular-tasks-7ed46"
+        ]
+      }
+    }
+  }
+}
